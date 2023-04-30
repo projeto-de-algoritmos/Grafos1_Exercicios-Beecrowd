@@ -1,6 +1,3 @@
-# Não esquecer de gravar o video
-
-
 # Grafos1_Exercicios-Beecrowd
 
 **Número da Lista**: 8<br>
